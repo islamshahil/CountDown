@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">VijiKeeru</string>
+    <string name="countdown">There are only</string>
+    <string name="countdownleft">till Jaan Returns!</string>
+</resources>

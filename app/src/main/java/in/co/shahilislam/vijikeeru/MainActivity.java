@@ -69,7 +69,7 @@ public class MainActivity extends AppCompatActivity {
 
                 countDownStart();
 
-                tvmsg.setText(et_name.getText() + "Jaan will return soon, Don't be sad!!");
+                tvmsg.setText(et_name.getText() + "Jaan will return soon, Don't be sad!!!!!!");
 
 
             }
